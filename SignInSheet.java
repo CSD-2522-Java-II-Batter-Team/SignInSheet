@@ -23,7 +23,7 @@ Seth I. - 4/21/25 - Added Seth as the first element in the nameList array.
         
         // Enter your name in the below list on the first available index you see. See my name for an example.
         nameList[0] = "Seth";
-        nameList[1] = "Steve";
+        nameList[1] = "_______";
         nameList[2] = "_______";
         nameList[3] = "_______";
         nameList[4] = "_______";
