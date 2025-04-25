@@ -12,6 +12,7 @@
 Seth I. - 4/21/25 - Added Seth as the first element in the nameList array.
 Lillian H. - 4/22/25 - Added Lillian as the second element in the nameList array.
 James F. - 4/22/25 - Added James as the third element in the nameList array.
+Tiffany W. - 4/22/2025 - Added Tiffany as the fourth element in the nameList array.
 
 ======================================
  */
@@ -27,7 +28,7 @@ James F. - 4/22/25 - Added James as the third element in the nameList array.
         nameList[0] = "Seth";
         nameList[1] = "Lillian";
         nameList[2] = "James";
-        nameList[3] = "_______";
+        nameList[3] = "Tiffany";
         nameList[4] = "_______";
         nameList[5] = "_______";
         
