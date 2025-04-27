@@ -29,7 +29,7 @@ Tiffany W. - 4/22/2025 - Added Tiffany as the fourth element in the nameList arr
         nameList[1] = "Lillian";
         nameList[2] = "James";
         nameList[3] = "Tiffany";
-        nameList[4] = "_______";
+        nameList[4] = "Timothy";
         nameList[5] = "_______";
         
         // Prints out statement showing you've modified the file.
