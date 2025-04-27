@@ -13,6 +13,7 @@ Seth I. - 4/21/25 - Added Seth as the first element in the nameList array.
 Lillian H. - 4/22/25 - Added Lillian as the second element in the nameList array.
 James F. - 4/22/25 - Added James as the third element in the nameList array.
 Tiffany W. - 4/22/2025 - Added Tiffany as the fourth element in the nameList array.
+Timothy G. - 4/26/2025 - Added Timothy as the fifth element in the nameList array.
 
 ======================================
  */
