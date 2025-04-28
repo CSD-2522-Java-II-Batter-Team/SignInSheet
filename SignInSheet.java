@@ -4,7 +4,7 @@
  * File Name: SignInSheet.java
  * Last Update: 4/22/25 by Lillian H.
  * Last Update: 4/22/25 by James F.
- * Program Description: The Program allows  user to enter their name into an array and prints out a confirmation message when run.
+ * Program Description: Program allows a user to enter their name into an array and prints out a confirmation message when ran.
  */
 
 /*
@@ -25,7 +25,7 @@ Whitney S. - 4/28/2025 - Added Whitney as the sixth element in the nameList arra
         // Array to store our names
         String[] nameList = new String[6];
         
-        // Enter your name in the list below on the first available index you see. See my name for an example.
+        // Enter your name in the below list on the first available index you see. See my name for an example.
         nameList[0] = "Seth";
         nameList[1] = "Lillian";
         nameList[2] = "James";
