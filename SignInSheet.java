@@ -14,7 +14,7 @@ Lillian H. - 4/22/25 - Added Lillian as the second element in the nameList array
 James F. - 4/22/25 - Added James as the third element in the nameList array.
 Tiffany W. - 4/22/2025 - Added Tiffany as the fourth element in the nameList array.
 Timothy G. - 4/26/2025 - Added Timothy as the fifth element in the nameList array.
-
+Whitney S. - 4/28/2025 - Added Whitney as the sixth element in the nameList array.
 ======================================
  */
 
@@ -31,9 +31,9 @@ Timothy G. - 4/26/2025 - Added Timothy as the fifth element in the nameList arra
         nameList[2] = "James";
         nameList[3] = "Tiffany";
         nameList[4] = "Timothy";
-        nameList[5] = "_______";
+        nameList[5] = "Whitney";
         
-        // Prints out statement showing you've modified the file.
+        // Prints out a statement showing you've modified the file.
         System.out.println();
         for (int i = 0; i <= 5; i++) {
             if (!nameList[i].isEmpty()) System.out.println("Hello, I'm " + nameList[i] + " and I'm able to modify the code!");
