@@ -30,7 +30,7 @@ Timothy G. - 4/26/2025 - Added Timothy as the fifth element in the nameList arra
         nameList[1] = "Lillian";
         nameList[2] = "James";
         nameList[3] = "Tiffany";
-        nameList[4] = "_______";
+        nameList[4] = "Timothy";
         nameList[5] = "_______";
         
         // Prints out statement showing you've modified the file.
